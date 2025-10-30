@@ -354,5 +354,8 @@ void loop() {
 
   esp_deep_sleep_start();
 
+
+  //corrigiu
+
   // Nunca chega aqui (após wake, recomeça no setup)
 }
